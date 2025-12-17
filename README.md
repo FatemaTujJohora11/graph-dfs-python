@@ -22,6 +22,3 @@ This repository contains a Python implementation of an undirected graph using an
 
 ```bash
 python assign3p2.py
-
-Description
-The program defines a Graph class that allows adding edges between nodes and performing DFS traversal starting from a given node. The traversal visits all reachable nodes while avoiding infinite loops caused by cycles.
